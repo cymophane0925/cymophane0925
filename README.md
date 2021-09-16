@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @cymophane0925
+- 👋 Hi, I’m Edson
 - 👀 I’m interested in sports and tour
 - 🌱 I’m currently learning python and C# program
 
